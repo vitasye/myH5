@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 是不是很好奇这是什么？
 
 You can use the [editor on GitHub](https://github.com/vitasye/myH5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
